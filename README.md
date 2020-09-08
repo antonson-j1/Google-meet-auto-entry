@@ -3,10 +3,10 @@ Another simple automation script to join all the boring meetings/classes in Goog
 This too is for all the lazy peeps who are dreading the morning classes.
 
 ## Requirements 
-- [x] Installed python version above 3.5
+- [x] Installed python version above 3.7
 - [x] Installed pyautogui package
 - [x] Installed schedule package
-- [x] Chrome Web Browser (Signed in)
+- [x] Chrome Web Browser (Signed in [through smail])
 
 run `pip install -r requirements.txt`
 
