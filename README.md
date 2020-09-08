@@ -17,4 +17,6 @@ run `pip install -r requirements.txt`
 + Make sure you are signed into the account to attend the meeting
 
 * run the `main.py`
+
+# Souce code: https://github.com/prashanth-up/Meet-Automation
   
